@@ -2,9 +2,14 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-beIN SPORTS HABER | | | |
+beIN SPORTS HABER |sports | | |
 https://www.youtube.com/c/beINSPORTSTürkiye/live
 
 
-Zee 24 Tass| | | |
+Zee 24 Tass|News| | |
+https://m.youtube.com/watch?v=NXdV9GqtXHc&pp=ygUKWmVlIDI0IHRhcw%3D%3D
+
+
+
+Zee 24 Tass|Movies| | |
 https://m.youtube.com/watch?v=NXdV9GqtXHc&pp=ygUKWmVlIDI0IHRhcw%3D%3D
