@@ -6,6 +6,7 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 Zee_24Tass.py > ../Zee_24Tass.m3u8
+python3 beinsports-haber.py > ../beinsports-haber.m3u8
 
 echo m3u8 grabbed
+
