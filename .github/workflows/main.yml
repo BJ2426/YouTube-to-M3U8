@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Zee_24Tass
+name: beIN SPORTS HABER
 
 # Controls when the action will run. 
 on:
@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x Zee_24Tass.sh
-          ./Zee_24Tass.sh
+          chmod +x beinsports-haber.sh
+          ./beinsports-haber.sh
         
       - name: git add
         run: |
